@@ -2,6 +2,7 @@
 
 from .player import Player
 from .task import Task
+from .item import Item
 from .game import Game
 
-__all__ = ["Player", "Task", "Game"]
+__all__ = ["Player", "Task", "Game", "Item"]
